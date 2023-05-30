@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "everscale-crypto": "^0.1.1",
     "everscale-inpage-provider": "^0.3.61",
     "everscale-standalone-client": "^2.1.19"
   }
